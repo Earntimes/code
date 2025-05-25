@@ -10,6 +10,7 @@
     const allowedHostnamesOrPaths = [
         // -------- APNE DOMAINS YAHAAN DAALEIN --------
         'your-primary-domain.com',
+        'earntimestheme.blogspot.com',
         'www.your-primary-domain.com',
         'your-blogname.blogspot.com', // Agar blogspot par hai
         'localhost', // Local development ke liye
